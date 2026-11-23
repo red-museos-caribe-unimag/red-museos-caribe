@@ -75,3 +75,49 @@ El equipo confirmó el acceso a los enlaces en modo incógnito sin iniciar sesi�
 El trabajo está organizado mediante una organización de GitHub, un equipo de tres integrantes, cinco hitos (*milestones*), tareas (*issues*) y un tablero de *GitHub Projects*. Las asignaciones y estados se consultan en las secciones correspondientes del repositorio.
 
 **Nota sobre la verificación:** el archivo `resultados_verificacion.md` documenta una ejecución conservada del verificador con la misma versión de código y datos de este paquete. Para corroborar ese resultado, ejecutar las pruebas en el equipo de los estudiantes.
+
+
+## Trabajo colaborativo y contribuciones del equipo
+
+El proyecto **Red de Museos del Caribe — Alternativa E** fue desarrollado colaborativamente por Leandro García, Diego Mejía y Jesús Jiménez, estudiantes de la Universidad del Magdalena.
+
+### Leandro García
+
+Participó en el desarrollo de la lógica del programa en `business_logic.py`, principalmente en:
+
+- **Issue #1:** Creación y validación de museos.
+- **Issue #2:** Registro y simulación de visitantes.
+- **Issue #4:** Clasificación de niveles de asistencia, cálculo de rachas y días pendientes.
+- **Revisión final:** Colaboró con Jesús Jiménez en la revisión del proyecto, comprobando los archivos, las funcionalidades y la preparación de la entrega.
+
+### Diego Mejía
+
+Participó en el desarrollo de las funcionalidades de análisis y comparación de museos, principalmente en:
+
+- **Issue #3:** Cálculo de indicadores estadísticos y generación de informes.
+- **Issue #5:** Búsqueda y comparación entre museos.
+- **Evidencias de IA:** Colaboró con Jesús Jiménez en la organización de las conversaciones y evidencias del uso de inteligencia artificial generativa.
+
+### Jesús Jiménez
+
+Participó en la integración, organización y publicación del proyecto en GitHub, realizando las siguientes actividades:
+
+- Creación de la organización y configuración del repositorio.
+- Integración y publicación de los archivos desarrollados por el equipo.
+- Creación de Issues y asignación de responsabilidades.
+- Configuración y seguimiento de los cinco Milestones.
+- Organización del tablero GitHub Projects.
+- Organización de las evidencias de IA con la colaboración de Diego Mejía.
+- Incorporación de los informes académicos y el enlace al video.
+- Revisión final del proyecto con la colaboración de Leandro García.
+- Preparación de la entrega final.
+
+### Evidencia del trabajo colaborativo
+
+Leandro García y Diego Mejía desarrollaron gran parte del código y compartieron sus archivos para integrarlos en el repositorio común.
+
+Jesús Jiménez realizó la publicación inicial de los archivos en GitHub, por lo que los commits de carga aparecen asociados a su cuenta.
+
+Las contribuciones individuales también están documentadas en los Issues del proyecto mediante asignaciones y comentarios realizados desde las cuentas de los integrantes.
+
+Los cinco incrementos se encuentran organizados en GitHub Milestones y el seguimiento de las actividades está registrado en GitHub Projects.
